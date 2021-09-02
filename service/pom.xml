@@ -60,6 +60,11 @@
             <artifactId>swagger-annotations</artifactId>
             <version>${swagger-annotations.version}</version>
         </dependency>
+        <dependency>
+            <groupId>com.hubspot.maven.plugins</groupId>
+            <artifactId>prettier-maven-plugin</artifactId>
+            <version>0.14</version>
+        </dependency>
 
         <!-- Test -->
         <dependency>
